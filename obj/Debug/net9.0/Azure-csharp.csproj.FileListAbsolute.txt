@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Portfolio\Work Cv\Bincom\C# Assignments\Azure-csharp\bin\Debug\net9.0\Azure-csharp.exe
+C:\Users\HP\Desktop\Portfolio\Work Cv\Bincom\C# Assignments\Azure-csharp\bin\Debug\net9.0\Azure-csharp.deps.json
+C:\Users\HP\Desktop\Portfolio\Work Cv\Bincom\C# Assignments\Azure-csharp\bin\Debug\net9.0\Azure-csharp.runtimeconfig.json
+C:\Users\HP\Desktop\Portfolio\Work Cv\Bincom\C# Assignments\Azure-csharp\bin\Debug\net9.0\Azure-csharp.dll
+C:\Users\HP\Desktop\Portfolio\Work Cv\Bincom\C# Assignments\Azure-csharp\bin\Debug\net9.0\Azure-csharp.pdb
+C:\Users\HP\Desktop\Portfolio\Work Cv\Bincom\C# Assignments\Azure-csharp\obj\Debug\net9.0\Azure-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Portfolio\Work Cv\Bincom\C# Assignments\Azure-csharp\obj\Debug\net9.0\Azure-csharp.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Portfolio\Work Cv\Bincom\C# Assignments\Azure-csharp\obj\Debug\net9.0\Azure-csharp.AssemblyInfo.cs
+C:\Users\HP\Desktop\Portfolio\Work Cv\Bincom\C# Assignments\Azure-csharp\obj\Debug\net9.0\Azure-csharp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Portfolio\Work Cv\Bincom\C# Assignments\Azure-csharp\obj\Debug\net9.0\Azure-csharp.sourcelink.json
+C:\Users\HP\Desktop\Portfolio\Work Cv\Bincom\C# Assignments\Azure-csharp\obj\Debug\net9.0\Azure-csharp.dll
+C:\Users\HP\Desktop\Portfolio\Work Cv\Bincom\C# Assignments\Azure-csharp\obj\Debug\net9.0\refint\Azure-csharp.dll
+C:\Users\HP\Desktop\Portfolio\Work Cv\Bincom\C# Assignments\Azure-csharp\obj\Debug\net9.0\Azure-csharp.pdb
+C:\Users\HP\Desktop\Portfolio\Work Cv\Bincom\C# Assignments\Azure-csharp\obj\Debug\net9.0\Azure-csharp.genruntimeconfig.cache
+C:\Users\HP\Desktop\Portfolio\Work Cv\Bincom\C# Assignments\Azure-csharp\obj\Debug\net9.0\ref\Azure-csharp.dll
