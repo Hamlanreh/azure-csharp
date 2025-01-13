@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Azure-csharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94b11009eba6c74af1170073df57f1de754f0dac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9818516957bdca49f00391582959f1c740ef97f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Azure-csharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Azure-csharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
