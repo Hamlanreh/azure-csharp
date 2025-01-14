@@ -49,5 +49,5 @@ steps:
   displayName: 'Publish build artifacts'
   inputs:
     PathtoPublish: '$(Build.ArtifactStagingDirectory)'
-    ArtifactName: 'HelloWorld'
+    ArtifactName: 'Azure-csharp'
     publishLocation: 'Container'
